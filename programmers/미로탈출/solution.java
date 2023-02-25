@@ -1,7 +1,7 @@
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class 미로탈출 {
+public class solution {
 
     char[][] map;
     int answer = Integer.MAX_VALUE;
