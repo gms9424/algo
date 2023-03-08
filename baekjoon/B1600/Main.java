@@ -5,7 +5,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 //말이 되고픈 원숭이
-
 public class Main {
     private static int K;
     private static int R;
