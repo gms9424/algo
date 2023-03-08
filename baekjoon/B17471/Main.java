@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 //게리 멘더링
-
 public class Main {
     private static int N;
     private static int[] P;
